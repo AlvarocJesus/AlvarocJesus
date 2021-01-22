@@ -16,8 +16,8 @@
 
 
 
-[! [Estatísticas do github de AlvarocJesus](https://github-readme-stats.vercel.app/api?Username=alvarocjesus)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[! [Estatísticas do github de AlvarocJesus](https://github-readme-stats.vercel.app/api?Username=alvarocjesus)](https://github.com/anuraghazra/github-readme-stats)-->
+[![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus)](https://github.com/anuraghazra/github-readme-stats)
 
  
 - Thanks for visiting. 
