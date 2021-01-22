@@ -15,9 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvarocjesus@gmail.com)](mailto:alvarocjesus@gmail.com)
 
 
-
-<!--[! [Estatísticas do github de AlvarocJesus](https://github-readme-stats.vercel.app/api?Username=alvarocjesus)](https://github.com/anuraghazra/github-readme-stats)-->
-[![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 - Thanks for visiting. 
