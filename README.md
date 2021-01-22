@@ -14,6 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/alvarocoelhojesus)](https://br.linkedin.com/in/alvarocoelhojesus)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvarocjesus@gmail.com)](mailto:alvarocjesus@gmail.com)
 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 [![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
