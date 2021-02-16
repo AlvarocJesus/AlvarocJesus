@@ -8,7 +8,14 @@
 ## About me 
 <!--… Insira suas descrições aqui!-->
 Sou formado no curso técnico de Automação Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia – Campus Suzano. Estou iniciando na carreira de desenvolvimento web.
+
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, NodeJS, Express.JS and basic React.JS.</strong>
+</p>
  
+<p align="left">
+  💼 Ferramentas: <strong>VSCODE, Linux, Git ,GitHub.</strong>
+</p>
  
 ## Contact
 <!--[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlvarocJesus)](https://github.com/AlvarocJesus)-->
