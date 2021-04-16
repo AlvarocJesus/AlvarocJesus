@@ -8,14 +8,14 @@
 <!--## About me -->
 <!--Sou formado no curso técnico de Automação Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia – Campus Suzano. Estou iniciando na carreira de desenvolvimento web.-->
 
- <!--<div>
+ <<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=dracula"/>
-<div>-->
+<div>
 
-[![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus&show_icons=true&theme=&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocjesus&layout=compact&langs_count=8&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
+<!--[![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus&show_icons=true&theme=&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocjesus&layout=compact&langs_count=8&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AvlarocJesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
