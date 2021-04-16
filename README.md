@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarocjesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>-->
 
-[![AlvarocJesus github stats](ttps://github-readme-stats.vercel.app/api?username=alvarocjesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![AlvarocJesus github stats](ttps://github-readme-stats.vercel.app/api?username=alvarocjesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   🦄 Habilidades: HTML, CSS, JavaScript, NodeJS, Express.JS and basic React.JS.
