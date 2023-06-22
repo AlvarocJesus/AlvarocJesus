@@ -6,9 +6,15 @@
 -🎯 1ª Formação em Ciência da Computação no Centro Universitário FEI, que concluirei em 2025. <br>
 
 ## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/alvarocoelhojesus)
+<!--- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/alvarocoelhojesus)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarocjesus@gmail.com)
-[![Github](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlvarocJesus)
+[![Github](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlvarocJesus) -->
+<p align="center">
+  <a href="mailto:alvarocjesus@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://br.linkedin.com/in/alvarocoelhojesus"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://hub.docker.com/u/alvarocjesus"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+  <a href="https://github.com/AlvarocJesus"><img src="https://img.icons8.com/color/32/000000/github.png" alt="docker"/></a>
+</p>
 
 
 ### Linguagens e Soluções🛠
@@ -31,6 +37,12 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)&nbsp; -->
 
 [![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+
+  <a href="https://github.com/AlvarocJesus">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=AlvarocJesus&theme=dark" alt="AlvarocJesus" />
+  
+</div>
  
 
 
