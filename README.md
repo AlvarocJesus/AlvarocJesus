@@ -37,12 +37,6 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)&nbsp; -->
 
 [![AlvarocJesus github stats](https://github-readme-stats.vercel.app/api?username=AlvarocJesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<div>
-
-  <a href="https://github.com/AlvarocJesus">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=AlvarocJesus&theme=dark" alt="AlvarocJesus" />
-  
-</div>
  
 
 
