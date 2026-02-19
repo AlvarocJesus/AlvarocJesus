@@ -1,5 +1,5 @@
 # Álvaro Coelho Jesus <br>
-### Desenvolvedor BackEnd <br>
+### Engenheiro de Software & Analista de Dados | Python, SQL & Cloud <br>
 
 -🎯 Eu trabalho com Tecnologia da Informação desde 2021, nas Desenvolvimento e Projetos. <br>
 -🎯 Atualmente Foco no Desenvolvedor BackEnd. <br>
